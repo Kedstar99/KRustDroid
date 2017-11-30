@@ -1,0 +1,1 @@
+/home/kd913/Project/qt_widgets/rust/target/release/librust.a: /home/kd913/Project/qt_widgets/rust/src/implementation.rs /home/kd913/Project/qt_widgets/rust/src/lib.rs /home/kd913/Project/qt_widgets/rust/src/interface.rs
